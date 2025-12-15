@@ -1,6 +1,6 @@
 # CC Playbook
 
-A collection of skills, custom commands, hooks, and resources for Claude Code.
+A collection of skills, custom commands, hooks, agents, and resources for Claude Code.
 
 ## What's Inside
 
@@ -17,6 +17,10 @@ Custom slash commands to extend Claude Code functionality.
 *Coming soon*
 
 ### Hooks
+
+*Coming soon*
+
+### Agents
 
 *Coming soon*
 
@@ -43,7 +47,8 @@ cp cc-playbook/.claude/commands/clarify.md your-project/.claude/commands/
 .claude/
 ├── commands/       # Custom slash commands
 ├── skills/         # Skills for extended capabilities
-└── hooks/          # Event-driven automation
+├── hooks/          # Event-driven automation
+└── agents/         # Custom agent configurations
 ```
 
 ## Contributing
