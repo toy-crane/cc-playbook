@@ -11,6 +11,9 @@ Custom slash commands to extend Claude Code functionality.
 | Command | Description |
 |---------|-------------|
 | `/clarify` | Clarify vague ideas through Socratic questioning. Transforms abstract concepts into concrete understanding. |
+| `/claude:available-agents` | List all available sub-agents grouped by location. |
+| `/claude:available-commands` | List all available custom slash commands grouped by user and project. |
+| `/claude:available-skill` | List all available skills grouped by location. |
 
 ### Skills
 
